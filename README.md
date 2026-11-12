@@ -8,3 +8,5 @@ AI-assisted analysis, all on open health data.
 - [ ] Module 0: The data world
 - [ ] Module 1: SQL
 - [ ] Module 2: Python
+
+Week 1: data world map, Git basics, first repository
