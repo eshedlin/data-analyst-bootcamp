@@ -38,3 +38,7 @@ and every number in a project is traced to code or to a source.
 
 ## Notes
 - [Module 0 terms](notes/module-0-terms.md)
+
+## License
+
+MIT, see [LICENSE](LICENSE).
